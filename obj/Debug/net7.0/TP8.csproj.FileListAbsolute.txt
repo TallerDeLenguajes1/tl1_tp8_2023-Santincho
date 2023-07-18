@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Facultad\Taller1\TP8\bin\Debug\net7.0\TP8.exe
+C:\Users\pc\Desktop\Facultad\Taller1\TP8\bin\Debug\net7.0\TP8.deps.json
+C:\Users\pc\Desktop\Facultad\Taller1\TP8\bin\Debug\net7.0\TP8.runtimeconfig.json
+C:\Users\pc\Desktop\Facultad\Taller1\TP8\bin\Debug\net7.0\TP8.dll
+C:\Users\pc\Desktop\Facultad\Taller1\TP8\bin\Debug\net7.0\TP8.pdb
+C:\Users\pc\Desktop\Facultad\Taller1\TP8\obj\Debug\net7.0\TP8.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Facultad\Taller1\TP8\obj\Debug\net7.0\TP8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Facultad\Taller1\TP8\obj\Debug\net7.0\TP8.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Facultad\Taller1\TP8\obj\Debug\net7.0\TP8.AssemblyInfo.cs
+C:\Users\pc\Desktop\Facultad\Taller1\TP8\obj\Debug\net7.0\TP8.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Facultad\Taller1\TP8\obj\Debug\net7.0\TP8.dll
+C:\Users\pc\Desktop\Facultad\Taller1\TP8\obj\Debug\net7.0\refint\TP8.dll
+C:\Users\pc\Desktop\Facultad\Taller1\TP8\obj\Debug\net7.0\TP8.pdb
+C:\Users\pc\Desktop\Facultad\Taller1\TP8\obj\Debug\net7.0\TP8.genruntimeconfig.cache
+C:\Users\pc\Desktop\Facultad\Taller1\TP8\obj\Debug\net7.0\ref\TP8.dll
